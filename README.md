@@ -2,6 +2,7 @@
 - 👀 I’m interested in web devoloping
 - 🌱 I’m currently learning C language and DSA
 - 📫 How to reach me- My email address- rockaditi100@gmail.com / Or you can text me -8670172162
+   Python 
 -
 
 <!---
