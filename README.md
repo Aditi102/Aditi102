@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditi102
 - 👀 I’m interested in web devoloping
-- 🌱 I’m currently learning C language and DSA, Python,HTML,CSS
+- 🌱 I’m currently learning C language and DSA, Python,HTML,CSS,JS
 - 📫 How to reach me- My email address- rockaditi100@gmail.com / Or you can text me -8670172162
 
 <!---
