@@ -1,0 +1,10 @@
+Query 1. Creation of Department table
+
+mysql> CREATE TABLE Department(DepartmentID INT , Name varchar(20));
+
+Query 2. Inserting values into Department table 
+
+mysql> INSERT INTO Department (DepartmentID, Name) VALUES
+    -> (1, 'Marketing'),
+    -> (2, 'Research'),
+    -> (3, 'Development');

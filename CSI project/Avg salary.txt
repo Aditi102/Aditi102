@@ -1,0 +1,12 @@
+mysql> SELECT
+    ->     d.Name AS DepartmentName,
+    ->     COUNT(e.EmployeeID) AS NumberOfEmployees,
+    ->     AVG(e.Salary) AS AverageSalary
+    -> FROM
+    ->     Employees e
+    -> JOIN
+    ->     Department d ON e.DepartmentID = d.DepartmentID
+    -> GROUP BY
+    ->     d.Name
+    -> HAVING
+    ->     AVG(e.Salary) > (SELECT AVG(Salary) FROM Employees);
